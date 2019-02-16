@@ -37,7 +37,7 @@ int main()
 	printf("\n\nNuovo valore:\t%d",sum);
 	printf("\nSalvataggio nel file \"sum.dat\" in corso ...\n");
 	f = fopen("sum.dat","w");
-	fprintf(f,"\n%d\n",sum);
+	fprintf(f,"%d\n",sum);
 	fclose(f);
 return 0;
 }
