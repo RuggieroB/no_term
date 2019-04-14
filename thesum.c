@@ -1,7 +1,7 @@
 /*
 # no_term
 
-# Algoritmi di Laboratorio di Programmazione. Alunno: Bucchianico Enrico Ruggiero, 4^Finf.
+# Algoritmo di Laboratorio di Programmazione. Alunno: Bucchianico Enrico Ruggiero, 4^Finf.
 
 
 Algoritmi "thesum": Algoritmo che dopo aver chiesto all'utente di inserire un numero intero da tastiera, lo somma ad un altro intero letto da un file di testo "sum.dat".
